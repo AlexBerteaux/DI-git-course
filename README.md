@@ -1,2 +1,2 @@
-# git-course
+# DI-git-course
 Repository for DI students
